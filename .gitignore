@@ -1,0 +1,9 @@
+# Downloaded images
+images/*
+!images/.gitkeep
+
+
+
+# Go build output
+*.exe
+*.out
